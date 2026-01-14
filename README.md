@@ -35,7 +35,7 @@ Launch 是一个专业的 Android 设备安全检测与指纹采集工具，旨�
 - ✅ **Magisk** - 检测文件、挂载点、进程、Zygisk
 - ✅ **KernelSU** - 检测文件、内核特征、OverlayFS
 - ✅ **APatch** - 检测 SuperKey、KPM 模块
-- ✅ **SukiSU** - 检测 SUSFS 隐藏框架（2025 最新）
+- ✅ **SukiSU** - 检测 SUSFS 隐藏框架
 - ✅ **传统 SU** - su 文件、管理器应用
 - ✅ **隐藏模块** - Shamiko、Zygisk-Assistant、HideMyApplist
 
